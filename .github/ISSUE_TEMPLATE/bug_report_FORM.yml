@@ -10,7 +10,7 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report! 
         This form support markdown in some of the text area's show here.
-        ![Photo of a team that makes a circle with their fists to celebrate their team effort](Picture1.png)
+        ![Photo of a team that makes a circle with their fists to celebrate their team effort](/blob/main/Picture1.png)
   - type: input
     id: contact
     attributes:
