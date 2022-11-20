@@ -8,7 +8,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this bug report! 
+        This form support markdown in some of the text area's show here.
+        ![Photo of a team that makes a circle with their fists to celebrate their team effort](Picture1.png)
   - type: input
     id: contact
     attributes:
