@@ -1,4 +1,4 @@
 # examples
 All sorts of GitHub examples
 
-![](Picture1.png)
+![](GitHub_Logo_White.png)
