@@ -8,3 +8,12 @@ Moar better Examples
 
 
 Change 3
+
+## Snowball Effect
+
+⚪
+⚪⚪
+⚪⚪⚪
+⚪⚪⚪⚪
+
+The effect keeps building momentum, like a snowball rolling downhill.
