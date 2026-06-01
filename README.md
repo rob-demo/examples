@@ -11,9 +11,9 @@ Change 3
 
 ## Snowball Effect
 
-⚪
-⚪⚪
-⚪⚪⚪
-⚪⚪⚪⚪
+🔥
+🔥🔥
+🔥🔥🔥
+🔥🔥🔥🔥
 
-The effect keeps building momentum, like a snowball rolling downhill.
+The effect keeps building momentum, like ideas on fire taking over the world!
