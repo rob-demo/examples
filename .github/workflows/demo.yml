@@ -5,7 +5,9 @@ on:
 
 jobs:
   job-1:
-    environment: Cow bells
+    environment: 
+      name: Cow bells
+      url: www.google.com
     runs-on: ubuntu-latest
     steps:
        - run: echo "hello world"
