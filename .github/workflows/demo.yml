@@ -5,6 +5,7 @@ on:
 
 jobs:
   job-1:
+    environment: Cow bells
     runs-on: ubuntu-latest
     steps:
        - run: echo "hello world"
